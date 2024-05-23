@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "664c3197e4b9b03e4ce90496"
+  },
+  "id": 1,
+  "name": "rajesh",
+  "mentees": [
+    "shobitha",
+    "raaga",
+    "shobi",
+    "swetha",
+    "geethika"
+  ],
+  "mentee_count": 10
+},
+{
+  "_id": {
+    "$oid": "664c3197e4b9b03e4ce90497"
+  },
+  "id": 2,
+  "name": "Suresh",
+  "mentees": [
+    "santosh",
+    "manohar",
+    "ravi",
+    "satish",
+    "karthik"
+  ],
+  "mentee_count": 20
+},
+{
+  "_id": {
+    "$oid": "664c3223e4b9b03e4ce90498"
+  },
+  "id": 3,
+  "name": "pramod",
+  "mentees": [
+    "sreenu",
+    "prashanth",
+    "bunty",
+    "teja",
+    "chaitu"
+  ],
+  "mentee_count": 25
+},
+{
+  "_id": {
+    "$oid": "664c3223e4b9b03e4ce90499"
+  },
+  "id": 4,
+  "name": "varun",
+  "mentees": [
+    "arjun",
+    "ram",
+    "krishna",
+    "gowtham",
+    "kalyan"
+  ],
+  "mentee_count": 30
+}]

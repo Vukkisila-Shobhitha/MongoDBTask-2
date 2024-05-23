@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "664c2f98e4b9b03e4ce90491"
+  },
+  "id": 1,
+  "date": {
+    "$date": "2024-10-02T00:00:00.000Z"
+  },
+  "company_name": "Accenture",
+  "student_placed": "Shobi"
+},
+{
+  "_id": {
+    "$oid": "664c2f98e4b9b03e4ce90492"
+  },
+  "id": 2,
+  "date": {
+    "$date": "2024-10-15T00:00:00.000Z"
+  },
+  "company_name": "TCS",
+  "student_placed": "Raaga"
+},
+{
+  "_id": {
+    "$oid": "664c3062e4b9b03e4ce90493"
+  },
+  "id": 3,
+  "date": {
+    "$date": "2024-10-20T00:00:00.000Z"
+  },
+  "company_name": "Wipro",
+  "student_placed": "Swetha"
+},
+{
+  "_id": {
+    "$oid": "664c3062e4b9b03e4ce90494"
+  },
+  "id": 4,
+  "date": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  },
+  "company_name": "Infosys",
+  "student_placed": "Sarayu"
+},
+{
+  "_id": {
+    "$oid": "664c3062e4b9b03e4ce90495"
+  },
+  "id": 5,
+  "date": {
+    "$date": "2024-10-30T00:00:00.000Z"
+  },
+  "company_name": "PWC",
+  "student_placed": "Bhoomi"
+}]

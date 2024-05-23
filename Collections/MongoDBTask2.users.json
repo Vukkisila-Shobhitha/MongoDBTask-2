@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "664b029696517eb8bd3c8db8"
+  },
+  "id": 1,
+  "name": "Shobi",
+  "email": "shobitha@gmail.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "664b029696517eb8bd3c8db9"
+  },
+  "id": 2,
+  "name": "Raaga",
+  "email": "raaga@gmail.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "664b029696517eb8bd3c8dba"
+  },
+  "id": 3,
+  "name": "Swetha",
+  "email": "swetha@gmail.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "664b029696517eb8bd3c8dbb"
+  },
+  "id": 4,
+  "name": "Sarayu",
+  "email": "sarayu@gmail.com",
+  "role": "student"
+},
+{
+  "_id": {
+    "$oid": "664f464fbfe2ee50e84215a0"
+  },
+  "id": 5,
+  "name": "Bhoomi",
+  "email": "bhoomi@gmail.com",
+  "role": "student"
+}]
